@@ -36,8 +36,8 @@ Será desenvolvido um sistema back-end em Java para apoiar o processo de agendam
 O projeto terá foco no back-end, com regras de negócio bem definidas, aplicação dos princípios SOLID, uso de padrões de projeto e testes unitários. Não será desenvolvida interface gráfica completa, mas sim uma solução funcional que demonstre a aplicação prática dos conceitos de Engenharia de Software.
 
 ## Estrutura do Projeto
-trabalhopraticoA3/
-│
-├── aplicacao/      # Código Java (src, model, service, controller) 
-├── docs/           # Documentação e diagramas  
-└── readme.md       # Descrição geral do projeto
+trabalhopraticoA3/<br>
+│<br>
+├── aplicacao/      # Código Java (src, model, service, controller)   <br>
+├── docs/           # Documentação e diagramas  <br>
+└── readme.md       # Descrição geral do projeto  <br>
