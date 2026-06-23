@@ -1,4 +1,4 @@
-ppackage model;
+package model;
 
 public class Medico {
     private String id;
