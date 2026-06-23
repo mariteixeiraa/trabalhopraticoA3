@@ -38,6 +38,6 @@ O projeto terá foco no back-end, com regras de negócio bem definidas, aplicaç
 ## Estrutura do Projeto
 trabalhopraticoA3/
 │
-├── aplicacao/      # Código Java (src, model, service, controller)
-├── docs/           # Documentação e diagramas
+├── aplicacao/      # Código Java (src, model, service, controller) 
+├── docs/           # Documentação e diagramas  
 └── readme.md       # Descrição geral do projeto
